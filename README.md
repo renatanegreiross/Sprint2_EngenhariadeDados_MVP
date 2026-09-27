@@ -3,7 +3,7 @@
 **Disciplina:** Engenharia de Dados    
 **Aluna:** Renata Rocha de Negreiros Alcântara   
 **Matrícula:** 4052026000390  
-**Data:** 27/10/2026
+**Data:** 27/09/2026
 
 Projeto desenvolvido para a disciplina de **Engenharia de Dados**, com o objetivo de construir um pipeline de dados em ambiente cloud para analisar a evolução e a concentração da produção offshore de petróleo e gás natural no Brasil entre **2005 e 2025**.
 
