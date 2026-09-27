@@ -1,4 +1,9 @@
-# Engenharia de Dados aplicada à produção offshore de petróleo e gás natural no Brasil
+# Engenharia de Dados Aplicada à Produção Offshore de Petróleo e Gás Natural no Brasil: construção de um Lakehouse para análise da evolução e concentração da produção entre 2005 e 2025
+
+**Disciplina:** Engenharia de Dados    
+**Aluna:** Renata Rocha de Negreiros Alcântara   
+**Matrícula:** 4052026000390  
+**Data:** 27/10/2026
 
 Projeto desenvolvido para a disciplina de **Engenharia de Dados**, com o objetivo de construir um pipeline de dados em ambiente cloud para analisar a evolução e a concentração da produção offshore de petróleo e gás natural no Brasil entre **2005 e 2025**.
 
