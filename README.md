@@ -17,7 +17,7 @@ A análise considera o período entre janeiro de 2005 e dezembro de 2025, abrang
 3. Quais campos são responsáveis pela maior parcela da produção offshore brasileira?
 4. A produção offshore brasileira está se tornando mais ou menos concentrada em poucos campos ao longo do tempo?
 
-O contexto de negócio, as fontes utilizadas e a exploração inicial dos arquivos estão detalhados no **Notebook 01**.
+O contexto de negócio, as fontes utilizadas e a exploração inicial dos arquivos estão detalhados no **[Notebook 01 — Apresentação e Exploração dos Dados](notebooks/01_apresentacao_exploracao_dados.ipynb)**.
 
 ---
 
